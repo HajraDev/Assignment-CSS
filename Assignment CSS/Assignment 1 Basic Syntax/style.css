@@ -1,0 +1,10 @@
+body {
+  background-color: blue;
+  color: white;
+}
+.font {
+  font-family: Arial;
+}
+p {
+  font-weight: bold;
+}

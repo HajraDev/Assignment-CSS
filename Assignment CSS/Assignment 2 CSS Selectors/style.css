@@ -1,0 +1,12 @@
+.font {
+  font-family: Arial;
+  font-weight: bold;
+  color: red;
+}
+.para {
+  color: green;
+  font-size: 18px !important;
+}
+#intro {
+  font-weight: bold;
+}
