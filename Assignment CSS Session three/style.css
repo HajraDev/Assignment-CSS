@@ -1,0 +1,88 @@
+.container {
+  display: inline-block;
+}
+
+a {
+  color: rgb(0, 113, 133);
+  margin-top: 10px;
+}
+span {
+  color: rgb(0, 118, 0);
+  font-weight: 900;
+  font-size: 25px;
+}
+.heading {
+  margin-left: 50px;
+}
+.b1 {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+  margin-right: 50px;
+}
+.b2 {
+  background-color: rgb(255, 216, 20);
+  border: rgb(255, 216, 20);
+  color: black;
+  padding: 10px 50px;
+  border-radius: 50px;
+  font-weight: bold;
+  margin-right: 50px;
+}
+.b3 {
+  background-color: rgb(46, 164, 79);
+  border: rgb(46, 164, 79);
+  color: white;
+  font-weight: 900;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.b4 {
+  background-color: rgb(121, 82, 179);
+  border: rgb(121, 82, 179);
+  color: white;
+  font-weight: 900;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.b5 {
+  background-color: white;
+  /* border: rgb(108, 117, 125); */
+  color: rgb(68, 71, 73);
+  font-weight: 900;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.b6 {
+  background-color: rgb(10, 102, 194);
+  border: rgb(10, 102, 194);
+  color: white;
+  font-weight: 900;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-left: 50px;
+}
+.b7 {
+  background-color: white;
+
+  color: rgb(10, 102, 194);
+  font-weight: 900;
+  padding: 10px 25px;
+  border-radius: 50px;
+}
+.b8 {
+  background-color: rgb(255, 216, 20);
+  border: rgb(255, 216, 20);
+  color: black;
+  padding: 10px 30px;
+  border-radius: 50px;
+  font-weight: bold;
+}
+.b9 {
+  background-color: rgb(255, 164, 28);
+  border: rgb(255, 164, 28);
+  color: black;
+  padding: 10px 40px;
+  border-radius: 50px;
+  font-weight: bold;
+}
